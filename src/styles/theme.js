@@ -1,7 +1,7 @@
 const theme = {
   font: {
-    primary: `'Montserrat', serif`,
-    secondary: `'Average', serif`,
+    primary: `'Roboto', serif`,
+    secondary: `'Montserrat', serif`,
   },
   font_size: {
     small: 'font-size: 20px; line-height: 30px',
